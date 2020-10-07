@@ -1,3 +1,8 @@
+// Write a program that prompts the user to type in integers, adds each integer one at a time to the head of a linked list, 
+// and then prints out the integers in the linked list (they'll be in reverse order from the input).
+// Note: When running the program, press Ctrl-D to stop entering numbers. 
+
+
 #include <cs50.h>
 #include <stdio.h>
 
